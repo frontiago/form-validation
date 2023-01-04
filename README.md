@@ -6,6 +6,6 @@
 - Check for empty values
 ---
 
-### 👁️ [View Online](https://thiagowfer.github.io/form-validation/)
+### 👁️ [View Online](https://frontiago.github.io/form-validation/)
 
 ![Print](./images/print-form-validation.png)
